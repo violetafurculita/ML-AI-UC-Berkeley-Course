@@ -10,10 +10,12 @@ The models trained and tested (Linear Regression, Ridge and Lasso Regressions) p
 
 Recommendations to our clients
 
-Car prices are impacted by car age. New Cars and Old cars in great condition command the highest prices. Add in your inventory New and Vintage Cars in great conditions (new, like new, excellent).
-Car prices are impacted by their horse power. Cars with the number of cylinders greater than 6 in new, like new and excellent condition command high prices. Add to your inventory more cars with higher horse power.
+Car prices are impacted by car age. New Cars and Old cars in great condition command the highest prices. Add in your inventory New and Vintage Cars in great condition (new, like new, excellent).
+Car prices are impacted by their horsepower. Cars with the number of cylinders greater than 6 in new, like new, and excellent condition command high prices. Add to your inventory more cars with higher horse power.
 Cars running on Diesel and Electricity command higher prices.
 Cars with 8 cylinders and greater with title status as rebuild command a high price. These cars may fall in the vintage category.
 Florida, California, New York and Texas have the highest car inventory.
 Ferrari, Aston Martin, Tesla and Porsche are the priciest cars in the inventory.
 White, black, orange, red and custom are the most expensive car colors.
+
+
