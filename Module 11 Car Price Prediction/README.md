@@ -20,3 +20,4 @@ White, black, orange, red and custom are the most expensive car colors.
 
 
 See Notebook for more details 
+https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2011%20Car%20Price%20Prediction/Module_11_Price_of_Cars_notebook_Violeta_Furculita.ipynb
