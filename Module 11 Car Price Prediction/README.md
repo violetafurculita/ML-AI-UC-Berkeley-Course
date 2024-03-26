@@ -21,16 +21,19 @@ Cars with 8 cylinders and greater with title status as rebuild command a high pr
 
 
 Florida, California, New York, and Texas have the highest car inventory.
+
 ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/98f38329-4e40-4493-a72c-9ea9c7a63f6d)
 
 
 
 Ferrari, Aston Martin, Tesla, and Porsche are the priciest cars in the inventory.
+
 ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/fca5e29d-6e5c-45fe-995d-ef2660855c03)
 
 
 
 White, black, orange, red, and custom are the most expensive car colors.
+
 ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/ffa90f24-0074-4e74-9391-01346ad581e1)
 
 
