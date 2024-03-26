@@ -24,5 +24,7 @@ Ferrari, Aston Martin, Tesla, and Porsche are the priciest cars in the inventory
 
 White, black, orange, red, and custom are the most expensive car colors.
 
+![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/6a58138b-67a5-4444-ab87-0513916435d5)
+
 
 See Notebook for more details - https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2011%20Car%20Price%20Prediction/Module_11_Price_of_Cars_notebook_Violeta_Furculita.ipynb
