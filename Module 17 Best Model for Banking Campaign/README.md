@@ -25,14 +25,38 @@ Build and compare machine learning models that can help predict whether a Portug
 
 Overall the marketing campaigns have a low conversion rate. This means an **8% conversion rate** in this case.
 
+![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/f6aa1d0d-e504-4733-ad66-18f1093f4ea0)
+
+
 The profile of the customer who bought the term deposit product is:
 
 * someone with age between 25-60 years old
+  
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/0ea18e90-240a-4721-9238-935c66397b39)
+
 * employed as admin, technician or blue-collar
+
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/bec74d63-a3f0-4b2c-8a9f-e2e0eacc1b00)
+
 * someone who either has a high school or university degree
+
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/0f165fa7-8e3a-49c0-aa10-22b2c5afdd59)
+
 * someone who is either married or single
-* someone who does not have a personal loan
+
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/45c46a4f-9ae1-4f02-9ad1-37b8790415ec)
+
+* someone who does not have a personal loan and if they did in the past, they did not default on the loan
+  
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/c4a69a7e-63a9-45f6-b752-18b06fb1548a)
+
+
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/9e757a18-8480-4a61-876e-ed9534a85acc)
+
+
 * someone who may have a housing loan
+  
+![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/b58cfaee-92fc-4570-9b16-517b6685ec47)
 
 * Best Model to predict propensity to buy by test accuracy and train time - Logistic Regression with a test accuracy of 88.84% and a train time of 0.064. The second best model after fine-tuning is Decision Tree, also based on train time and test accuracy.
 * **Before fine-tuning**
