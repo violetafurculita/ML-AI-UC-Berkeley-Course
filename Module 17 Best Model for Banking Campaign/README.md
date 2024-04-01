@@ -7,7 +7,7 @@ The dataset used comes from the UCI Machine Learning repository [Links to an ext
 **Deliverables:**
 After understanding, preparing, and modeling the data, build a Jupyter Notebook that includes a clear statement demonstrating your understanding of the business problem, a correct and concise interpretation of descriptive and inferential statistics, our findings (including actionable insights), and next steps and recommendations.
 
-**Jupyter Notebook -> 
+**Jupyter Notebook -> https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2017%20Best%20Model%20for%20Banking%20Campaign/Module_17_Comparing_Classifiers.ipynb
 
 
 **Assignment Solution**
