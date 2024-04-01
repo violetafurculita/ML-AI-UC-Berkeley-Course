@@ -4,7 +4,7 @@
 **Violeta Furculita**
 
 #### Executive summary
-
+??????????????
 #### Rationale
 Why should anyone care about this question?
 
@@ -12,8 +12,7 @@ Why should anyone care about this question?
 Can Machine Learning models accurately predict whether credit card customers will default or not on their payments?
 
 #### Data Sources
-UC Irvine Machine Learning Repository -
-https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 
 #### Methodology
 * Preprocessing of data
