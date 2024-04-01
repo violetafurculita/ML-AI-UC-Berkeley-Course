@@ -23,7 +23,7 @@ Build and compare machine learning models that can help predict whether a Portug
 
 **Our Findings with actionable insights**
 
-Overall the marketing campaigns have a low conversion rate. This means a 5% conversion rate in this case.
+Overall the marketing campaigns have a low conversion rate. This means an **8% conversion rate** in this case.
 
 The profile of the customer who bought the term deposit product is:
 
@@ -34,16 +34,16 @@ The profile of the customer who bought the term deposit product is:
 * someone who does not have a personal loan
 * someone who may have a housing loan
 
-* Best Model to predict propensity to buy by test accuracy and train time - Logistic Regression with a test accuracy of 88.84% and a train time of 0.064. The second best model after fine-tuning is decision tree, based also on train time and test accuracy.
-* Before fine-tuning
+* Best Model to predict propensity to buy by test accuracy and train time - Logistic Regression with a test accuracy of 88.84% and a train time of 0.064. The second best model after fine-tuning is Decision Tree, also based on train time and test accuracy.
+* **Before fine-tuning**
   
   ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/e947dcec-306a-4489-aa31-1669788432d6)
 
-* After fine-tuning and final
+* **After fine-tuning and final**
   
 ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/8b697f07-f2ac-4259-b21a-ae7f50595d51)
 
-Evaluating only the first 7 data features age, type of job, marital status, education level, loan defaults, housing loan status and personal loan status and not including the rest we still achieved predictive power for our models in high 80th percentiles. Out of those 7 features we further simplified the number of features needed using PCA.
+Evaluating only the **first 7 data features age, type of job, marital status, education level, loan defaults, housing loan status and personal loan status** and not including the rest we still achieved predictive power for our models in high 80th percentiles. Out of those 7 features we further simplified the number of features needed using PCA.
 
 Leveraging combined age, job type, marital status, and education level we can explain 99.99% of the variability in this data set. This means that further adding features to the data set may add incrementally little to no value to our models' ability to predict term deposit purchases.
 
