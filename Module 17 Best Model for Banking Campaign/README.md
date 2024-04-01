@@ -65,9 +65,9 @@ The profile of the customer who bought the term deposit product is:
 
 * **After fine-tuning and final**
   
-![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/8b697f07-f2ac-4259-b21a-ae7f50595d51)
+  ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/8b697f07-f2ac-4259-b21a-ae7f50595d51)
 
-Evaluating only the **first 7 data features age, type of job, marital status, education level, loan defaults, housing loan status and personal loan status** and not including the rest we still achieved predictive power for our models in high 80th percentiles. Out of those 7 features we further simplified the number of features needed using PCA.
+Evaluating only the **first 7 data features age, type of job, marital status, education level, loan defaults, housing loan status and personal loan status** and not including the rest we still achieved predictive power for our models in high 88th percentiles. Out of those 7 features we further simplified the number of features needed using PCA.
 
 Leveraging combined age, job type, marital status, and education level we can explain 99.99% of the variability in this data set. This means that further adding features to the data set may add incrementally little to no value to our models' ability to predict term deposit purchases.
 
