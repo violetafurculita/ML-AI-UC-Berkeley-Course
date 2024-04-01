@@ -35,9 +35,11 @@ The profile of the customer who bought the term deposit product is:
 
 * Best Model to predict propensity to buy by test accuracy and train time - Logistic Regression with a test accuracy of 88.84% and a train time of 0.064. The second best model after fine-tuning is decision tree, based also on train time and test accuracy.
 * Before fine-tuning
+  
   ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/e947dcec-306a-4489-aa31-1669788432d6)
 
 * After fine-tuning and final
+  
 ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/8b697f07-f2ac-4259-b21a-ae7f50595d51)
 
 Evaluating only the first 7 data features age, type of job, marital status, education level, loan defaults, housing loan status and personal loan status and not including the rest we still achieved predictive power for our models in high 80th percentiles. Out of those 7 features we further simplified the number of features needed using PCA.
