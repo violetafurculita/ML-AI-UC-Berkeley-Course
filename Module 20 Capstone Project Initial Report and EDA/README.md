@@ -4,7 +4,18 @@
 **Violeta Furculita**
 
 #### Executive summary
-??????????????
+**Context**:
+- Credit cards are lines of credit extended to customers to use for everyday purchases
+- Most customers make monthly payments toward the principal and interest charged, where applicable. Some customers may forgo making payments due to financial distress or intent to commit fraud
+Credit cards are a major revenue stream for financial institutions
+Even small increases in default rates can lead to significant losses
+Being able to accurately predict which customers may default allows targeted risk management
+
+**Problem**:
+Conventional methods of predicting the likelihood of default at underwriting or during usage may not be well-equipped to predict default
+Identifying at-risk customers early allows contact and/or appropriate loss management 
+However, default risk depends on complex interactions of many customer attributes
+
 #### Rationale
 Why should anyone care about this question?
 
