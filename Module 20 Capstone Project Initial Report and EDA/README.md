@@ -72,4 +72,4 @@ Can Machine Learning models accurately predict whether credit card customers wil
 
 
 ##### Contact and Further Information
-- please see module 24 folder for 
+- please see **Module 24 folder** for complete documentation and full notebook.
