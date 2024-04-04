@@ -46,7 +46,16 @@ Can Machine Learning models accurately predict whether credit card customers wil
 * Fine-tune the selected model to increase accuracy rates
 
 #### Results
-- We can easily train and test some out-of-the-box models that can offer pretty decent test accuracy rates and train times.
+- We can easily train and test some out-of-the-box models that can offer pretty decent test accuracy rates and train times either on a data set with 10 features or the entire training set
+
+  **Results on out-of-the-box models with 10 features selected via PCA**
+    ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/86f57b26-51e2-40f6-9341-60a004775f75)
+
+
+    **Results on out-of-the-box models on the entire training set**
+    ![image](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/assets/147281922/24e81c68-84fd-4b53-8775-cb429d7237f4)
+
+
 - We can further finetune each model to get better model performance
 
 #### Next steps
