@@ -4,23 +4,23 @@
 **Violeta Furculita**
 
 #### Executive summary
+
+
+#### Rationale
 **Context**:
 - Credit cards are lines of credit extended to customers to use for everyday purchases
 - Most customers make monthly payments toward the principal and interest charged, where applicable. Some customers may forgo making payments due to financial distress or intent to commit fraud
-Credit cards are a major revenue stream for financial institutions
-Even small increases in default rates can lead to significant losses
-Being able to accurately predict which customers may default allows targeted risk management
+- Credit cards are a major revenue stream for financial institutions
+- Even small increases in default rates can lead to significant losses
+- Being able to accurately predict which customers may default allows targeted risk management
 
 **Problem**:
-Conventional methods of predicting the likelihood of default at underwriting or during usage may not be well-equipped to predict default
-Identifying at-risk customers early allows contact and/or appropriate loss management 
-However, default risk depends on complex interactions of many customer attributes
-
-#### Rationale
-Why should anyone care about this question?
+- Conventional methods of predicting the likelihood of default at underwriting or during usage may not be well-equipped to predict default
+- Identifying at-risk customers early allows contact and/or appropriate loss management 
+- However, default risk depends on complex interactions of many customer attributes
 
 #### Research Question
-Can Machine Learning models accurately predict whether credit card customers will default or not on their payments?
+Can Machine Learning models accurately predict whether credit card customers will default on their payments?
 
 #### Data Sources
 [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
@@ -34,10 +34,14 @@ Can Machine Learning models accurately predict whether credit card customers wil
 * Fine-tune the selected model to increase accuracy rates
 
 #### Results
-What did your research find?
+- We can easily train and test some out-of-the-box models that can offer pretty decent test accuracy rates and train times.
+- We can further finetune each model to get better model performance
 
 #### Next steps
-What suggestions do you have for next steps?
+- perform more modeling and hyper tuning of the models
+- look at model ensembles such as boosting to enhance model performance
+- determine which customer data features are most useful to building these models so we can optimize for accuracy and train time
+- please see the **Module 24 Folder** that contains the completed project with models and stakeholder presentation
 
 #### Outline of project
 
@@ -47,3 +51,4 @@ What suggestions do you have for next steps?
 
 
 ##### Contact and Further Information
+- please see module 24 folder for 
