@@ -4,7 +4,19 @@
 **Violeta Furculita**
 
 #### Executive summary
+**Predicting Credit Card Payment Defaults: The Need for High Accuracy Machine Learning Models**
 
+- As reported by the New York Fed(https://www.cnbc.com/2024/02/06/credit-card-delinquencies-surged-in-2023-indicating-financial-stress-new-york-fed-says.html#:~:text=Economy-,Credit%20card%20delinquencies%20surged%20in%202023%2C%20indicating%20'financial,stress%2C'%20New%20York%20Fed%20says&text=Credit%20card%20delinquencies%20surged%20more,New%20York%20Fed%20reported%20Tuesday), credit card delinquency rates surged over 50% in 2023, indicating growing financial stress among consumers. Total U.S. household debt also rose to $17.5 trillion, with credit card balances increasing sharply.
+
+- For financial institutions, higher default rates translate directly to lost revenue, increased collection expenses and damage to balance sheets. Even small increases in defaults across large portfolios can result in substantial losses.
+
+- Traditional tools like FICO scores are lagging indicators that do not capture changing repayment behaviors in a rising rate environment. Forward-looking predictive models are needed to preempt defaults through targeted interventions.
+
+- Machine learning approaches can discover complex patterns across thousands of customer attributes. Models that accurately predict defaults 1-3 statements in advance allow contact of at-risk accounts with customized offers or counseling to improve outcomes.
+
+- By reducing defaults, financial institutions can mitigate risks, optimize underwriting, and safeguard profits during periods of economic stress. Machine learning therefore offers a strategic solution to stay ahead of default trends, protect profits, and strengthen customer relationships.
+
+- Accurate predictive models are more important than ever for credit risk management. This underscores the need for further developing and implementing advanced analytical capabilities.
 
 #### Rationale
 **Context**:
