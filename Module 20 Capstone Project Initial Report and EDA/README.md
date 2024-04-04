@@ -6,7 +6,7 @@
 #### Executive summary
 **Predicting Credit Card Payment Defaults: The Need for High Accuracy Machine Learning Models**
 
-- As reported by the New York Fed(https://www.cnbc.com/2024/02/06/credit-card-delinquencies-surged-in-2023-indicating-financial-stress-new-york-fed-says.html#:~:text=Economy-,Credit%20card%20delinquencies%20surged%20in%202023%2C%20indicating%20'financial,stress%2C'%20New%20York%20Fed%20says&text=Credit%20card%20delinquencies%20surged%20more,New%20York%20Fed%20reported%20Tuesday), credit card delinquency rates surged over 50% in 2023, indicating growing financial stress among consumers. Total U.S. household debt also rose to $17.5 trillion, with credit card balances increasing sharply.
+- As reported by the New York Fed [(https://www.cnbc.com/2024/02/06/credit-card-delinquencies-surged-in-2023-indicating-financial-stress-new-york-fed-says.html#:~:text=Economy-,Credit%20card%20delinquencies%20surged%20in%202023%2C%20indicating%20'financial,stress%2C'%20New%20York%20Fed%20says&text=Credit%20card%20delinquencies%20surged%20more,New%20York%20Fed%20reported%20Tuesday)], credit card delinquency rates surged over 50% in 2023, indicating growing financial stress among consumers. Total U.S. household debt also rose to $17.5 trillion, with credit card balances increasing sharply.
 
 - For financial institutions, higher default rates translate directly to lost revenue, increased collection expenses and damage to balance sheets. Even small increases in defaults across large portfolios can result in substantial losses.
 
