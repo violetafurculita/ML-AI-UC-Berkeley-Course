@@ -67,7 +67,7 @@ Can Machine Learning models accurately predict whether credit card customers wil
 #### Outline of project
 
 - [Link to Business Presentation](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2020%20Capstone%20Project%20Initial%20Report%20and%20EDA/Capstone%20presentation%20Module%2020.pdf)
-- [Link to notebook]()
+- [Link to notebook](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2020%20Capstone%20Project%20Initial%20Report%20and%20EDA/Capstone%20Project%20Notebook%20Part%201.ipynb)
 
 
 
