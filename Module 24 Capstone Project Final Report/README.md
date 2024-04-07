@@ -93,5 +93,5 @@ We have further fine-tuned the models run before in Module 20 and have achieved 
 
   
 Link to Business Presentation
-Link to notebook
+[Link to notebook](Module 24 Capstone Project Final Report/Capstone_Project_Credit_Card_Default_Payments.ipynb)
 
