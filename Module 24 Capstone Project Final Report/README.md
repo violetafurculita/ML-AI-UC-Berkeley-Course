@@ -93,5 +93,6 @@ We have further fine-tuned the models run before in Module 20 and have achieved 
 
   
 Link to Business Presentation
-[Link to notebook](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2024%20Capstone%20Project%20Final%20Report/Capstone_Project_Credit_Card_Default_Payments.ipynb)
+
+- [Link to notebook](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2024%20Capstone%20Project%20Final%20Report/Capstone_Project_Credit_Card_Default_Payments.ipynb)
 
