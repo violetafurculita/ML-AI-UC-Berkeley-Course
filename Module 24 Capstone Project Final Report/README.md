@@ -92,7 +92,7 @@ We have further fine-tuned the models run before in Module 20 and have achieved 
 - Likely the credit card company retains more data on its users, or if it does not it is recommended they do. Some potentially valuable information for further training these models was mentioned above.
 
   
-Link to Business Presentation
+[Link to Business Presentation](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2024%20Capstone%20Project%20Final%20Report/Capstone%20presentation%20final.pdf)
 
 - [Link to notebook](https://github.com/violetafurculita/ML-AI-UC-Berkeley-Course/blob/main/Module%2024%20Capstone%20Project%20Final%20Report/Capstone_Project_Credit_Card_Default_Payments.ipynb)
 
