@@ -1,4 +1,4 @@
-##Project Title - Use Machine Learning Models to help predict credit card payments default
+**Project Title - Use Machine Learning Models to help predict credit card payments default**
 Violeta Furculita
 
 **Executive summary**
@@ -17,7 +17,7 @@ Predicting Credit Card Payment Defaults: The Need for High Accuracy Machine Lear
 - Accurate predictive models are more important than ever for credit risk management. This underscores the need for further developing and implementing advanced analytical capabilities.
 
 Rationale
-**Context:**
+**Context**:
 
 - Credit cards are lines of credit extended to customers to use for everyday purchases
 - Most customers make monthly payments toward the principal and interest charged, where applicable. Some customers may forgo making payments due to financial distress or intent to commit fraud
@@ -38,27 +38,20 @@ Can Machine Learning models accurately predict whether credit card customers wil
 UC Irvine Machine Learning Repository
 
 **Methodology**
-Preprocessing of data
-Feature selection and extraction for model training
-Split data into train and test datasets
-Build a baseline model
-Build, train, and test a couple of different models to determine the best model to predict the default of credit card payments
-Fine-tune the selected model to increase accuracy rates
-Results
-We can easily train and test some out-of-the-box models that can offer pretty decent test accuracy rates and train times either on a data set with 10 features or the entire training set
+- Preprocessing of data
+- Feature selection and extraction for model training
+- Split data into train and test datasets
+- Build a baseline model
+- Build, train, and test a couple of different models to determine the best model to predict the default of credit card payments
+- Fine-tune the selected model to increase accuracy rates
 
-Results on out-of-the-box models with 10 features selected via PCA image
+**Results**
+We have further fine-tuned the models run before in Module 20 and have achieved the following results.
 
-Results on out-of-the-box models on the entire training set image
 
-We can further finetune each model to get better model performance
 
-Next steps
-perform more modeling and hyper tuning of the models
-look at model ensembles such as boosting to enhance model performance
-determine which customer data features are most useful to building these models so we can optimize for accuracy and train time
-please see the Module 24 Folder that contains the completed project with models and stakeholder presentation
-Outline of project
+
+
 Link to Business Presentation
 Link to notebook
 
